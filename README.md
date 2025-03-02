@@ -20,6 +20,7 @@ No external packages are required for this script as it utilizes Python's standa
 
 1. **Save the Script:**
    - Save the provided code in a file named `server.py`.
+   - For Example use the standard Directory
 
 2. **Prepare Your Content:**
    - Place your static files and Python CGI scripts in the same directory as `server.py` or in its subdirectories.
